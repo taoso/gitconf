@@ -1,0 +1,7 @@
+[user]
+	email = jalen.lyu@gmail.com
+	name = Jalen Lyu
+[push]
+	default = matching
+[alias]
+    stat = ! sh ~/.git/stat.sh
