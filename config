@@ -1,12 +1,12 @@
 [user]
-	email = jalen.lyu@gmail.com
-	name = Jalen Lyu
+    email = git@lvht.net
+    name = 吕海涛
 [push]
-	default = matching
+    default = current
 [alias]
-    stat = ! sh ~/.git/stat.sh
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    tags = tag --sort=version:refname
 [core]
-	quotepath = false
+    quotepath = false
 [merge]
-	tool = vimdiff
+    tool = vimdiff

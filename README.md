@@ -1,2 +1,2 @@
-Jalen Lyu's Git Configuration
------------------------------
+Lv's Git Configuration
+----------------------
